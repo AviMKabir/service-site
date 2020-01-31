@@ -1,0 +1,93 @@
+@font-face {
+    font-family: ProximaNova;
+    src: url(./ProximaNova-Regular.otf);
+}
+
+@font-face {
+    font-family: ProximaNova;
+    src: url(./ProximaNovaBold.otf);
+    font-weight: bold;
+  }
+
+
+  body { 
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    text-align: left;
+    margin: auto;
+
+}
+
+h1 {
+
+    font-family: "ProximaNova";
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 0.9;
+
+}
+
+p {
+
+    font-family: "ProximaNova";
+    font-size: 21px;
+
+}
+
+
+.navbar {
+    background: white;
+    margin-bottom: 100px;
+}
+
+
+.logo {
+
+    font-family: "ProximaNova";
+    font-weight: bold;
+    font-size: 27px;
+
+}
+
+.nav-link {
+
+    font-family: "ProximaNova";
+    font-size: 19px;
+
+}
+
+
+.jumbotron {
+    background: #EDDAD1;
+    height: 500px;
+}
+
+.hero-content {
+
+margin-top: 60px;
+
+}
+
+.littletext{
+
+    margin-top: 40px;
+
+
+}
+
+.btntext{
+
+    font-family: "ProximaNova";
+    font-weight: bold;
+    font-size: 20px;
+    /* letter-spacing: 3px; */
+
+}
+
+.start-btn {
+
+margin-top: 30px;
+width: 152px;
+height: 55px;
+
+}
